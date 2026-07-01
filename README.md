@@ -1,2 +1,18 @@
-# java-programs
-A collection of Java programs and assignments covering object-oriented programming, control statements, arrays, methods, classes, and other core Java concepts.
+# Java Programs
+
+Welcome to my Java Programs repository!
+
+This repository contains my Java assignments, lab exercises, and practice programs completed during my Data Science course.
+
+## Topics Covered
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Arrays
+- Methods
+- Object-Oriented Programming (OOP)
+- Exception Handling
+
+## Author
+Nikhil G
+Data Science Student
